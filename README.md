@@ -1,2 +1,2 @@
-# Supervised-ML
+# INTERNSHIP TASKS
 The Sparks Foundation Internship (TASK 1)
